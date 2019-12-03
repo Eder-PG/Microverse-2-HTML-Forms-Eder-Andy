@@ -1,0 +1,38 @@
+/* #region header */
+
+.header{
+    float: right;
+}
+
+/* #endregion */
+
+/* #region body */
+
+.main{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#intuitImg{
+    filter: grayscale(100%);
+}
+
+.container{
+    width: 370px;
+    border: 1px solid black;    
+}
+
+.whiteContainer{
+    background-color: #ffffff;
+}
+
+.grayContainer{
+    height: 60px;
+    background-color: #eeeeee;
+}
+
+/* #endregion */
+
