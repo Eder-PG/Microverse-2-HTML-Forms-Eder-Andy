@@ -63,24 +63,37 @@ p {
 
 #intuitImg{
     margin-top: 80px;
-    filter: grayscale(100%);
     background: #ECEEF1;
     
 }
 
 .container{
-    width: 370px;
     border: 1px solid black;    
     background: white;
+    width: 500px;
+    height: 650px;
+
 }
 
 .whiteContainer{
     background-color: #ffffff;
+    padding:20px;
+    border: 1px solid black;  
+}
+
+.whiteContainer a{
+    font-size: small;
+}
+
+#sc{
+    font-size: 12px;
 }
 
 .grayContainer{
-    height: 60px;
     background-color: #eeeeee;
+    border: 1px solid blue;  
+    font-size: small;
+    height: 60px;
 }
 
 #submit{
