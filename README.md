@@ -1,63 +1,36 @@
-# Project Name
+# HTML forms
 
-> One paragraph statement about the project.
+> This is the second project of the Microverse.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+Replicating Youtube video page appearance by using HTML & CSS.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML,
+- CSS,
 
-## Live Demo
+## GitHub Repo
 
-[Live Demo Link](https://livedemo.com)
+- https://github.com/Eder-PG/Microverse-2-HTML-Forms-Eder-Andy
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Eder Palmeros Gracia**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@Eder-PG](https://github.com/Eder-PG)
+- Twitter: [@eder_palmeros](https://twitter.com/eder_palmeros)
+- Linkedin: [Eder Palmeros](https://www.linkedin.com/in/ederpg/)
 
-👤 **Author2**
+👤 **Andres Felipe Castañeda Ramos**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
+- Github: [@afcastaneda223](https://github.com/afcastaneda223)
+- Twitter: [@afcastaneda](https://twitter.com/afcastaneda)
+- Linkedin: [Andres Felipe Castañeda](www.linkedin.com/in/andres-castaneda223)
 
 ## Show your support
 
@@ -65,10 +38,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- Our Pets
+- Everyone else
 
 ## 📝 License
 
-This project is [MiT](lic.url) licensed.
+Distributed under the MIT License. See `LICENSE` for more information.
