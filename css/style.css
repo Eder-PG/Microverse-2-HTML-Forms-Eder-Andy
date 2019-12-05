@@ -1,0 +1,144 @@
+body {
+  background: #eceef1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header a { padding-bottom: 5px; }
+
+footer a { padding: 5px; }
+
+a:hover,
+a:visited,
+a:link,
+a:active {
+  color: #2478c5;
+  text-decoration: none;
+}
+
+footer a:hover { color: #000; }
+
+footer a:visited { color: #000; }
+
+footer a:link { color: #000; }
+
+footer a:active { color: #000; }
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+/* #region header */
+
+header {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.sign-in-button {
+  padding-left: 10px;
+  padding-right: 30px;
+}
+
+header button {
+  background: #2478c5;
+  color: #fff;
+  border: 1px solid #555;
+  border-radius: 5px;
+  font-size: 16px;
+  height: 45px;
+  width: 130px;
+}
+
+/* #endregion */
+
+/* #region body */
+
+.intuit {
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
+
+.logos img {
+  padding: 5px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  border: 1px solid #c7c7c7;
+  background: white;
+  width: 500px;
+  margin: 30px;
+}
+
+.learn-more {
+  font-size: small;
+}
+
+.container label {
+  text-align: left;
+  padding-left: 80px;
+  display: block;
+  padding-top: 60px;
+  padding-bottom: 5px;
+}
+
+.form-info {
+  text-align: left;
+  padding-top: 5px;
+  padding-left: 80px;
+  font-size: 12px;
+}
+
+.disclaimer {
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 70px;
+}
+
+.graybox {
+  background-color: #eceef1;
+  padding: 20px;
+  font-size: 10px;
+  margin: 1px;
+}
+
+.container button {
+  background: #2478c5;
+  font-size: 20px;
+  color: white;
+  height: 50px;
+  width: 350px;
+  border-radius: 5px;
+  margin: 40px;
+}
+
+.container input {
+  border-radius: 5px;
+  width: 350px;
+  height: 25px;
+}
+
+/* #endregion */
+
+/* #region footer */
+
+footer {
+  text-align: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  font-size: 16px;
+  bottom: 0;
+  height: 50px;
+  padding-bottom: 30px;
+}
+
+/* #endregion */
